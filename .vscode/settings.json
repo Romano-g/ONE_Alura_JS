@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 15,
+    "editor.hover.enabled": true,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "terminal.integrated.fontSize": 13,
+    "editor.rulers": [80],
+    "workbench.colorTheme": "2077",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "",
+    "editor.fontLigatures": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrap": "wordWrapColumn",
+}
